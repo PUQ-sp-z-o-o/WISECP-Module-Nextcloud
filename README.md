@@ -1,7 +1,7 @@
 # WISECP-Module-Nextcloud
 Provision NextCloud accounts via WISECP module.
 
-- - - - -
+
 # Description
 
 ### Nextcloud module **[WISECP](https://puqcloud.com/link.php?id=78)** 
