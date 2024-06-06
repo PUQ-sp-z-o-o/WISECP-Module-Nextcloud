@@ -48,7 +48,7 @@ The module is used to create customer accounts on the previously prepared Nextcl
 
 ### Screenshot of the client area
 
-![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-Nextcloud/assets/81689153/09fe565a-cec2-40b1-89d3-8bbd79c8d854)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-Nextcloud/assets/81689153/52cd6382-4664-4343-9b18-a560aec0c445)
 
 ### Screenshot of the Admin area
 
